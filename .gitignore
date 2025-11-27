@@ -1,0 +1,9 @@
+# Add this to .gitignore
+models/
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.onnx
+*.incomplete
+models/
