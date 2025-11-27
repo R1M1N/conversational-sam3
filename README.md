@@ -429,10 +429,6 @@ pytest
 python main.py --dev
 ```
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Meta AI** for SAM3 and the Segment Anything Model
@@ -448,7 +444,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Performance**: Run `python cli.py --benchmark` to check system performance
 
 ---
-
-**Built with ❤️ by MiniMax Agent**
-
-*Ready to revolutionize computer vision with natural language? Let's build something amazing! 🚀*
