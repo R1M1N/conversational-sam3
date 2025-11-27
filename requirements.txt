@@ -1,0 +1,48 @@
+# Core SAM3 and JAX dependencies
+torch>=2.1.0
+jax[cuda12_pip]>=0.4.20
+jaxlib>=0.4.20
+flax>=0.7.0
+
+# Transformers and acceleration
+transformers>=4.35.0
+accelerate>=0.24.0
+datasets>=2.14.0
+
+# Vision and image processing
+opencv-python>=4.8.0
+pillow>=10.0.0
+scikit-image>=0.21.0
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Performance and inference
+tritonclient[all]>=2.38.0
+onnx>=1.14.0
+onnxruntime>=1.15.0
+
+# Caching and data management
+redis>=5.0.0
+lmdb>=1.4.0
+
+# Web framework for API
+fastapi>=0.104.0
+uvicorn>=0.24.0
+websockets>=12.0
+starlette>=0.27.0
+
+# Utilities
+tqdm>=4.66.0
+rich>=13.6.0
+click>=8.1.0
+pyyaml>=6.0.0
+loguru>=0.7.0
+psutil>=5.9.0
+memory-profiler>=0.61.0
+
+# Development tools
+pytest>=7.4.0
+black>=23.9.0
+isort>=5.12.0
+flake8>=6.1.0
+mypy>=1.6.0
