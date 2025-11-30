@@ -436,11 +436,4 @@ python main.py --dev
 - **Hugging Face** for transformers and model infrastructure
 - **FastAPI Team** for the excellent web framework
 
-## 📞 Support
-
-- **Documentation**: Check this README and inline code comments
-- **Issues**: Open an issue on GitHub for bug reports
-- **Discussions**: Use GitHub Discussions for questions and ideas
-- **Performance**: Run `python cli.py --benchmark` to check system performance
-
 ---
